@@ -1,3 +1,3 @@
 # hello-world
 Just my first repository.
-Hi! I'm here at last. I should start learning much earlier.
+Hi! I like korean and want to be a developer in the future :)
